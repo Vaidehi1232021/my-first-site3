@@ -1,0 +1,153 @@
+header{
+  text-align: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+}
+
+.paragraph{
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Site Navigation */
+.site-nav {
+  margin-top: 20px;
+}
+
+.site-nav ul {
+  margin: 0;
+  padding: 0;
+  padding-left: 42%;
+}
+
+.site-nav li {
+  list-style: none;
+  float: left;
+  margin-right: 5px;
+}
+
+.site-nav a {
+  display: block;
+  color: #617140;
+  text-decoration: none;
+  padding: 10px 20px;
+  border: 3px solid #e5e9dc;
+}
+
+.site-nav a:hover {
+  background-color: #e5e9dc;
+}
+
+
+
+
+
+.intro{
+  text-align: left;
+
+  padding: 20px;
+  font-size: 30px;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.good{
+  padding: 20px;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.nice{
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.image{
+  width: 75%;
+  height: auto;
+  
+}
+@media screen and (max-width: 480px) {
+  .image{
+    width: 65%;
+    height: auto;
+  }
+}
+
+
+
+.heading{
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.heading-a{
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.image-1{
+  width: 75%;
+  height: auto;
+}
+@media screen and (max-width: 480px) {
+  .image-1{
+    width: 65%;
+    height: auto;
+  }
+}
+.my-para{
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.heading-b{
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.side{
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.my-img{
+  width: 75%;
+  height: auto;
+}
+
+@media screen and (max-width: 480px) {
+  .my-img{
+    width: 65%;
+    height: auto;
+  }
+}
+
+footer {
+  text-align: center;
+  font-size: 85%;
+  color:darkgrey;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.fix {
+  clear: both;
+}
+
+.group {
+  zoom: 1;
+}
+
+
+
+
+
+
